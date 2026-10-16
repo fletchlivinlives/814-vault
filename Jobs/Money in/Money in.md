@@ -41,3 +41,6 @@ Claude can create the `K-D` deposit invoice in QuickBooks (not sent) when Joe sa
 
 - 2026-10-16: First use: Fuller Construction $2,700 check on invoice 23953 (A), and Mental Health Assoc of Erie $22,500 deposit on 23999 (B), deposited together.
 - The AutoInvoice script in the QB sync project also creates `K-D` invoices for some rows. Before making one by hand, check QuickBooks doesn't already have it.
+- 2026-10-16: Deposits on jobs not started go to the **special savings** account (bank deposit there), not checking. Paid-job money goes to general checking.
+- 2026-10-16: A refund from a vendor (e.g. Erie Insurance $72) is not income: categorize it to the expense it refunds.
+- Deposit invoices use item Commercial Flooring (45) or Residential Flooring (40) per the job's R/I/C, matching what AutoInvoice uses.
