@@ -6,7 +6,7 @@ Part of [[814 Epoxy]].
 
 QuickBooks and the sales sheets use Commercial / Residential / Industrial (the `R / I / C` column in Customer Leads and `R/I/C` in the Contract Tracker), and nearly everything non-residential defaults to Commercial. Most of that work is really for nonprofits and public bodies, which buy differently from businesses.
 
-## Categories (adopted by Fletch 2026-10-16)
+## Categories (adopted by Joe 2026-10-16)
 
 | Category | Who | Examples |
 |---|---|---|
@@ -16,7 +16,7 @@ QuickBooks and the sales sheets use Commercial / Residential / Industrial (the `
 | Public | government bodies | city and county buildings, schools, municipal fire departments |
 | Industrial | manufacturing, warehouse | plants, production floors |
 
-Fire departments go under Public (Fletch's call).
+Fire departments go under Public (Joe's call).
 
 ## Why it matters
 

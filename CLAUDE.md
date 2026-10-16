@@ -1,6 +1,6 @@
 # How to work in this vault
 
-This vault is the memory for Fletch's businesses. Every session starts from it and writes back to it. It is an Obsidian vault in git: Fletch reads it in Obsidian, Claude reads and edits the files.
+This vault is the memory for Joe's businesses. Every session starts from it and writes back to it. It is an Obsidian vault in git: Joe reads it in Obsidian, Claude reads and edits the files.
 
 ## Start of every session
 
@@ -27,8 +27,8 @@ This vault is the memory for Fletch's businesses. Every session starts from it a
 
 ## Safety
 
-- **Draft, then wait for Fletch's OK** before anything goes to a customer or moves money: sending email or texts, creating, sending or changing invoices, estimates or payment links, posting publicly. A job note may lift this for a specific step only if it says so explicitly.
-- Never write to QuickBooks unless the current job says to and Fletch has approved it in this session.
+- **Draft, then wait for Joe's OK** before anything goes to a customer or moves money: sending email or texts, creating, sending or changing invoices, estimates or payment links, posting publicly. A job note may lift this for a specific step only if it says so explicitly.
+- Never write to QuickBooks unless the current job says to and Joe has approved it in this session.
 - No passwords, API keys, tokens or full bank or card numbers in the vault. Say where a secret lives (for example "Script Properties of the QB sync project"), never its value.
 
 ## Git

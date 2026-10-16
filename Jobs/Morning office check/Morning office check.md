@@ -1,8 +1,8 @@
 # Morning office check
 
 **Business:** [[814 Epoxy]]
-**Trigger:** scheduled task "814 morning office check", weekdays 6:52am Eastern (result goes to Fletch by push notification and email), or Fletch says "morning check". The scheduled task needs the Intuit QuickBooks and Google Drive connectors attached in claude.ai.
-**Done when:** Fletch has one short message listing what needs him today, and today's daily note has a line saying the check ran.
+**Trigger:** scheduled task "814 morning office check", weekdays 6:52am Eastern (result goes to Joe by push notification and email), or Joe says "morning check". The scheduled task needs the Intuit QuickBooks and Google Drive connectors attached in claude.ai.
+**Done when:** Joe has one short message listing what needs him today, and today's daily note has a line saying the check ran.
 
 This job only reads. It never sends anything to a customer, never edits the SALES DOC and never writes to QuickBooks.
 
@@ -18,12 +18,12 @@ This job only reads. It never sends anything to a customer, never edits the SALE
 3. **This week and next (SALES DOC → SCHEDULE_FEED).** List the jobs active or starting in the next 14 days with dates and crew lead. Flag any job with no crew lead.
 4. **Gaps (SALES DOC → FEED).** Count won estimates marked "⚠ NOT IN TRACKER".
 5. **Write the message.** It reads on a phone in under a minute:
-   - first line: the one thing that most needs Fletch today
+   - first line: the one thing that most needs Joe today
    - then up to 3 short sections: **Money**, **Leads**, **Schedule**; skip a section if nothing in it needs action
    - plain numbers; no tables
 6. **Log it.** Add one line to today's daily note under a "Morning office check" section with the headline numbers. Commit and push.
 
-## Needs Fletch's OK
+## Needs Joe's OK
 
 Nothing in this job sends or changes anything. If the check suggests a follow-up (a payment reminder, a call), list it as a suggestion; never send it.
 

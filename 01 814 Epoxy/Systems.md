@@ -4,7 +4,7 @@ Part of [[814 Epoxy]].
 
 ## 814 SALES DOC (Google Sheet)
 
-Where Fletch estimates, contracts and schedules. Still being built out. Its own **How This Works** tab explains it: Leads feed the Tracker, the Dashboard reads both.
+Where Joe estimates, contracts and schedules. Still being built out. Its own **How This Works** tab explains it: Leads feed the Tracker, the Dashboard reads both.
 
 - **Customer Leads** tab: every opportunity, one row per bid. Status, job status, source, R/I/C, next action and date, estimate # and bid $. The header shows the next estimate number.
 - **FEED** tab: won estimate numbers, flagged "⚠ NOT IN TRACKER" when they have no Tracker row.

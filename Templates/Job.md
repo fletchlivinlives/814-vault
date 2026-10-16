@@ -1,7 +1,7 @@
 # {{Job name}}
 
 **Business:** link to the business index note.
-**Trigger:** what Fletch says, or the schedule, that starts this job.
+**Trigger:** what Joe says, or the schedule, that starts this job.
 **Done when:** what the finished result looks like.
 
 ## Read first
@@ -13,7 +13,7 @@ Links to the notes this job needs (systems, pricing, people).
 1. …
 2. …
 
-## Needs Fletch's OK
+## Needs Joe's OK
 
 The steps that send, post or change money, and must wait for approval.
 
