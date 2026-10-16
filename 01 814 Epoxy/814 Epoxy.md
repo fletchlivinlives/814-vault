@@ -14,6 +14,10 @@
 
 - [[People]] – who does what. Joe runs the whole office alone.
 
+## Suppliers
+
+- [[Suppliers]] – Sherwin-Williams and Niagara accounts and people.
+
 ## Systems
 
 - [[Systems]] – 814 SALES DOC, QuickBooks, the QB status sync, outside services and apps.

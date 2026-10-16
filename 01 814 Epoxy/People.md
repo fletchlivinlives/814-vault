@@ -4,7 +4,7 @@ Part of [[814 Epoxy]].
 
 ## Names
 
-Joe hands out nicknames and they stick, so "Fletch" can mean Joe, Justin, or Joe's daughter Mackenzie depending on who's talking. Check context before assuming. Nicknames are listed with each person below.
+Joe hands out nicknames and they stick, so "Fletch" can mean Joe, Justin, or Joe's daughter Mackenzie (family is in [[Joe]]) depending on who's talking. Check context before assuming. Nicknames are listed with each person below.
 
 ## Office
 

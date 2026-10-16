@@ -11,9 +11,9 @@ Possible businesses. One section each; an idea gets its own numbered folder only
 
 ## Others mentioned
 
-- Lauren – jewelry to sell.
-- Kenny – art.
-- Joe's son – podcasts / content.
+- Lauren (Joe's partner) – jewelry to sell.
+- Kenadie (daughter) – art.
+- Jackson (son) – podcasts / content.
 - Bedding (not discussed yet).
 
 These may each want their own vault built from this one's templates rather than a folder here.

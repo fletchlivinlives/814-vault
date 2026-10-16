@@ -8,6 +8,7 @@ Start here. Each business has a numbered folder with an index note; read the one
 
 ## Shared
 
+- [[Joe]] – who Joe is: family and close circle.
 - [[Jobs]] – step-by-step playbooks for repeat work.
 - [[Ideas]] – possible businesses that don't have a folder yet.
 - `Daily/` – one log note per day, newest last.
