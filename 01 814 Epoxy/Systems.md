@@ -4,10 +4,16 @@ Part of [[814 Epoxy]].
 
 ## 814 SALES DOC (Google Sheet)
 
-Where Fletch estimates, contracts and schedules. Still being built out.
+Where Fletch estimates, contracts and schedules. Still being built out. Its own **How This Works** tab explains it: Leads feed the Tracker, the Dashboard reads both.
+
+- **Customer Leads** tab: every opportunity, one row per bid. Status, job status, source, R/I/C, next action and date, estimate # and bid $. The header shows the next estimate number.
+- **FEED** tab: won estimate numbers, flagged "⚠ NOT IN TRACKER" when they have no Tracker row.
+- **SCHEDULE_FEED** tab: jobs by week with dates, crew lead and weekly totals.
+- **AUTO-INVOICE STATE / AUTO-INVOICE LOG** tabs: an auto-invoicing script, tested in Oct 2026 (dry runs on a copy, then a test invoice). Status and rules: _to fill in_.
+- **Vcita Contracts / Vcita Clients** tabs: history imported from Vcita, the older system (estimates back to 2024, about 700 clients).
 
 - **Contract Tracker** tab: one row per job. Column A `Est #` is the job key. Column C (Phase) is filled in by people. W (QB Invoice #) and X (QB Status: Open / Partial / Paid / Void) are written by the QB status sync.
-- **Dashboard** tab: A33:C34 holds the sync's reconciliation check.
+- **Dashboard** tab: the NEEDS ATTENTION block at the top (overdue follow-ups, due in 7 days, bids with no next action, scouted but never priced). A33:C34 holds the QB sync's reconciliation check.
 - **QB AR** tab: every open invoice, oldest due date first, owned by the sync.
 - The sheet's own Apps Script project runs an onEdit lead-intake trigger.
 
@@ -29,4 +35,5 @@ _To fill in: what the other tabs are and how estimating, contracts and schedulin
 
 - **Engage** – website.
 - **Flory** – online floor presentations for customers.
+- **ClockShark** – crew clock-in and clock-out for payroll; Rob reviews it Mondays.
 - **ECAA** – payroll; **SKM** – taxes. See [[People]].

@@ -4,9 +4,9 @@ Part of [[814 Epoxy]].
 
 ## Problem
 
-QuickBooks and the sales sheets use Commercial / Residential / Industrial, and nearly everything non-residential defaults to Commercial. Most of that work is really for nonprofits and public bodies, which buy differently from businesses.
+QuickBooks and the sales sheets use Commercial / Residential / Industrial (the `R / I / C` column in Customer Leads and `R/I/C` in the Contract Tracker), and nearly everything non-residential defaults to Commercial. Most of that work is really for nonprofits and public bodies, which buy differently from businesses.
 
-## Proposed categories (not adopted yet)
+## Categories (adopted by Fletch 2026-10-16)
 
 | Category | Who | Examples |
 |---|---|---|
@@ -16,7 +16,7 @@ QuickBooks and the sales sheets use Commercial / Residential / Industrial, and n
 | Public | government bodies | city and county buildings, schools, municipal fire departments |
 | Industrial | manufacturing, warehouse | plants, production floors |
 
-A volunteer fire company in PA is usually a nonprofit, so it would be Institutional; a city fire department would be Public.
+Fire departments go under Public (Fletch's call).
 
 ## Why it matters
 
@@ -27,4 +27,4 @@ A volunteer fire company in PA is usually a nonprofit, so it would be Institutio
 
 ## Next
 
-Fletch to decide on the list. Then apply it the same way in the SALES DOC and QuickBooks (customer type), and reclassify existing customers.
+Ask SKM about any tax effect. Then apply it the same way in the SALES DOC and QuickBooks (customer type), and reclassify existing customers.
