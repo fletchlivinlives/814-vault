@@ -29,6 +29,7 @@ _To fill in: how estimating, contracts and scheduling work day to day in these t
 - Code and full docs: GitHub repo `fletchlivinlives/814-qb-status`.
 - Standalone Google Apps Script, runs once a day. Reads invoices from QuickBooks (never writes to it) and updates W/X, Dashboard A33:C34 and the QB AR tab.
 - If QuickBooks disconnects (`invalid_grant`), re-run its `authorize` steps from that repo's README.
+- Updating it is manual: paste the changed `src/` files from the repo into the Apps Script project, then save. Failures email Joe ("Summary of failures for Google Apps Script: 814 QB Status Sync").
 
 ## Other tools and services
 
