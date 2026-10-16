@@ -1,7 +1,7 @@
 # Morning office check
 
 **Business:** [[814 Epoxy]]
-**Trigger:** scheduled every weekday morning, or Fletch says "morning check".
+**Trigger:** scheduled task "814 morning office check", weekdays 6:52am Eastern (result goes to Fletch by push notification and email), or Fletch says "morning check". The scheduled task needs the Intuit QuickBooks and Google Drive connectors attached in claude.ai.
 **Done when:** Fletch has one short message listing what needs him today, and today's daily note has a line saying the check ran.
 
 This job only reads. It never sends anything to a customer, never edits the SALES DOC and never writes to QuickBooks.
