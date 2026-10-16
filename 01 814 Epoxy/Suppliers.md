@@ -7,7 +7,8 @@ Part of [[814 Epoxy]]. Who 814 buys from and the people there.
 Two accounts:
 
 - **814 Epoxy** – all flooring and epoxy purchases. Served by the flooring rep out of Pittsburgh.
-- **814 Paint and More** – paint purchases. Credited to Jake's sales. Eric runs discounted deals through it, and other customers he sends sometimes buy on it with their own cards, which builds the account's volume.
+- **814 Paint and More** – not a separate business; a second Sherwin account in 814's name. Used for paint, sundries and miscellaneous supplies, and credited to Jake's paint sales. It also keeps purchase volume spread so the main account isn't flagged during heavy buying cycles. Painting is a service 814 has meant to add but hasn't had time for.
+- **Cash purchases** – Eric sometimes offers discounted materials for cash at the Erie store. These don't appear on either account statement, so they need their own record (see below).
 
 People:
 
@@ -20,7 +21,8 @@ People:
 - **Matt Lefevre** – runs Niagara's Erie branch (formerly its headquarters). Close with Joe; they talk pricing often.
 - **Alex Trahorova** – Niagara rep. Close with Justin. Helped early with demos and product questions; 814 has since outgrown needing that.
 
-## Open questions
+## For the books
 
-- Is 814 Paint and More its own business or a name on the Sherwin account? Does it have its own QuickBooks company?
-- For the books: purchases other people make on the 814 Paint and More account need to be kept apart from 814's own expenses. Decide how before bookkeeping cleanup reaches supplier bills.
+- Keep a receipt or a log line for every cash purchase: date, what, amount, which job. Without one, it can't be counted as a business expense or matched to jobs.
+- Purchases other people make on the 814 Paint and More account aren't 814's costs; keep them out of 814's expenses.
+- Ask SKM how to record cash purchases before bookkeeping cleanup reaches supplier bills.
