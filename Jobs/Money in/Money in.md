@@ -14,14 +14,14 @@ The order matters: **QuickBooks first, sheet second.** The QB status sync copies
 
 ### A. Payment on an invoice (job done or billed)
 
-1. **QuickBooks → + New → Receive payment.** Customer, tick the invoice (its number is the Est #), amount, method (Check + check number), Deposit to **Undeposited Funds**.
+1. **QuickBooks → + New → Receive payment.** Customer, tick the invoice (its number is the Est #), amount, method (Check + check number), Deposit to **Payments to deposit** (QuickBooks' name for Undeposited Funds).
 2. **Sheet → Contract Tracker → Phase (C) → Paid** once the invoice is paid in full. Balance Left (I) goes to 0 by itself. Leave W/X alone; the sync sets X to Paid next morning.
 3. Partial payment: leave Phase as is; the sync shows X = Partial.
 
 ### B. Deposit on a job that hasn't started
 
 1. **QuickBooks → + New → Invoice** numbered `K-D` (K = Est #), for the deposit amount, terms Due on receipt. The sync matches `K-D` to the job row.
-2. **Receive payment** against that invoice, Deposit to **Undeposited Funds**.
+2. **Receive payment** against that invoice, Deposit to **Payments to deposit** (QuickBooks' name for Undeposited Funds).
 3. **Sheet → Contract Tracker → Deposit $ (H)** = the amount. Balance Left (I) drops by itself. Phase stays Scheduled.
 4. When the job finishes, the final invoice is `K-F` for the balance.
 
