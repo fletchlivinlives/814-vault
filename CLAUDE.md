@@ -33,5 +33,6 @@ This vault is the memory for Fletch's businesses. Every session starts from it a
 
 ## Git
 
+- Work on `main`; the vault has one branch so every session and Obsidian see the same notes.
 - Commit and push after each meaningful change, with a message that says what changed.
 - If a push is rejected, pull (merge, not rebase), resolve, and push again. Never force-push.
