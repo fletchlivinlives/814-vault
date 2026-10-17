@@ -57,7 +57,6 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 - Gas-station rows on the Meals tab → Meals; Lowe's on Raw Mat → Cost of goods sold:Material; consumables → Supplies; Clover/FDMS/Bankcd → Merchant account fees.
 - **Bank account …0010 "Check Float"** receives "To Share 0010" and "Billscheckssept" transfers from checking.
 - **Check Float (…0010)**: a real bank account; QuickBooks account "Check Float (0010)" created for it. "To Share 0010", "Billscheckssept" and "Share Bills Out" are transfers into it.
-- **Propane for floor machines** (U-Haul, Rent-A-Wreck; Joe's Mach/Eqip tab) is an operating expense (Supplies), not the Machinery and Equipment fixed-asset account. Only real equipment purchases go to the asset account (SKM decides the threshold).
 - **Cell phones** → Utilities:Phone service (Joe's Facilit tab).
 - **Floori.io** = the floor visualizer website → Software & apps.
 - **Car washes on Joe's personal vehicle** → 3101 draw.
