@@ -24,4 +24,4 @@ Joe hands out nicknames and they stick, so "Fletch" can mean Joe, Justin, or Joe
 
 - **ECAA** (Peninsula Drive, Erie) – payroll.
 - **SKM** – tax preparation, business and personal.
-- **Liz (Van Cleve)** – former bookkeeper; her books were a mess, and bookkeeping is moving to Joe working with Claude. Rob still sends the Monday ClockShark hours to Liz. _To confirm: is Liz still the payroll hand-off, or ECAA?_
+- **Liz (Van Cleve)** – former bookkeeper; her books were a mess (no bank reconciliation for about a year). Bookkeeping is now Joe working with Claude; SKM is fine with that. Rob still sends the Monday ClockShark hours to Liz. _To confirm: is Liz still the payroll hand-off, or ECAA?_
