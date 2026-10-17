@@ -46,3 +46,14 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 3. Clear the pending bank feed against the sheet; multi-category merchants go to Joe as a short list.
 4. Reconcile each account month by month (none was done for about a year).
 5. Questions for SKM: personal items, equipment vs expense, the loan account, sales tax on nonprofit customers.
+
+## Rulings from Joe (2026-10-17)
+
+- **Personal vehicles:** Silverado = Justin's (3102 Partner Distributions – Justin); Lincoln = Joe's (3101). Post as draws, mark SKM review.
+- **Partner distribution accounts:** 3101 Joe, 3102 Justin, 3103 Rob. "Withdrawal Transfer J" / "TRANSFER TO J FLETCHER" = Joe's draw unless noted.
+- **Chad Henry is paid by paper check** (no direct deposit). His net check is written from checking and the same amount is moved back in from the payroll share account, so the pair is a paycheck plus a transfer, not income.
+- **Check 2017, $76 to Chad Henry** = back pay for a $1/hr raise missed for two weeks, paid outside payroll. Book to wages; tell ECAA so it lands on his payroll records and W-2.
+- **Customer deposits before 9/30/2026** (no QuickBooks invoices then): income with the customer's name, no invoice.
+- Gas-station rows on the Meals tab → Meals; Lowe's on Raw Mat → Cost of goods sold:Material; consumables → Supplies; Clover/FDMS/Bankcd → Merchant account fees.
+- **Bank account …0010 "Check Float"** receives "To Share 0010" and "Billscheckssept" transfers from checking.
+- Open with Joe: Check 1785 $1,500; "Share" +$3,667.04; $33.60 extra on the Certified Home Remodelers (Jessup) check.
