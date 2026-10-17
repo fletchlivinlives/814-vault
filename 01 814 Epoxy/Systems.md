@@ -22,6 +22,9 @@ _To fill in: how estimating, contracts and scheduling work day to day in these t
 
 - Company: 814 EPOXY AND MORE. Bookkeeping is being taken over from the former bookkeeper; expect cleanup.
 - Customer types are Commercial / Residential / Industrial today; see [[Customer categories]].
+- Plan: **Essentials** ($85/mo). Decided 2026-10-16 not to upgrade to Plus ($140/mo after promo) or Advanced ($340/mo): Plus's job costing can't see labor because payroll runs through ECAA. Revisit after the bookkeeping cleanup or if a second business needs classes.
+- **Job tags:** every job cost (materials, cash purchases, rentals) gets the tag `Job <Est #>`, e.g. `Job 23999`. Essentials can't put a customer on an expense line; the tag is how costs tie to a job. Job profit = that job's `K`/`K-D`/`K-F` invoices minus its tagged expenses (plus ClockShark labor if wanted).
+- QuickBooks account "Checking Share 0004" = the bank's "Savings – Future Deposits Only" (…0004), where deposits on unstarted jobs go. "Preferred Business Checking" (…0009) is general checking.
 - An invoice's DocNumber matches a Tracker row when it equals `K`, `K-D` or `K-F`, where `K` is the row's Est #.
 
 ## QB status sync

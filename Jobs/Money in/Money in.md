@@ -21,7 +21,7 @@ The order matters: **QuickBooks first, sheet second.** The QB status sync copies
 ### B. Deposit on a job that hasn't started
 
 1. **QuickBooks → + New → Invoice** numbered `K-D` (K = Est #), for the deposit amount, terms Due on receipt. The sync matches `K-D` to the job row.
-2. **Receive payment** against that invoice, Deposit to **Payments to deposit** (QuickBooks' name for Undeposited Funds).
+2. **Receive payment** against that invoice, Deposit to **Checking Share 0004** (the Future Deposits savings) when the check goes straight there; use **Payments to deposit** only when several checks share one deposit slip.
 3. **Sheet → Contract Tracker → Deposit $ (H)** = the amount. Balance Left (I) drops by itself. Phase stays Scheduled.
 4. When the job finishes, the final invoice is `K-F` for the balance.
 
@@ -45,3 +45,4 @@ Claude can create the `K-D` deposit invoice in QuickBooks (not sent) when Joe sa
 - 2026-10-16: A refund from a vendor (e.g. Erie Insurance $72) is not income: categorize it to the expense it refunds.
 - Deposit invoices use item Commercial Flooring (45) or Residential Flooring (40) per the job's R/I/C, matching what AutoInvoice uses.
 - 2026-10-16: The special savings account at the bank is "Savings – Future Deposits Only" (…0004). Materials for a job can be paid from that job's deposit: record a Transfer from …0004 to checking and the Expense from checking, tagged to the customer.
+- 2026-10-17: A cash withdrawal spent on job materials = one Expense from the account the cash came out of, payment method Cash, category Cost of goods sold:Material, tag `Job <Est #>`, receipt attached. When the bank feed shows the withdrawal, **match** it to that Expense; don't add it again.
