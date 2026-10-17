@@ -62,7 +62,7 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 - **Floori.io** = the floor visualizer website → Software & apps.
 - **Car washes on Joe's personal vehicle** → 3101 draw.
 - **Loan from Joe**: Joe has lent the company close to $60,000 over the years. The partners agreed that check 1800 ($2,000, written to Herbe for Joe's personal taxes) is interest on that loan. Booked as Joe's draw with "SKM review" for now: deducting it as interest expense needs a documented loan (balance, rate) and makes it interest income to Joe. **Ask SKM** to set up the loan account and decide.
-- **Widget Financial** is the business bank and also Joe's personal bank; only Joe has a personal Widget account. Any "Fletcher" or "J" withdrawal transfer = Joe's draw (3101).
+- **Widget Financial** is the business bank and also Joe's personal bank; only Joe has a personal Widget account. "Fletcherjoseph", "J Fletcher" or "Transfer J" = Joe's draw (3101). **Justin is also a Fletcher**: "Fletcherjustin" = Justin's draw (3102).
 - **Card ending 5898 = Justin's** (Widget Financial $500 on 9/26 and $100 on 9/27 → 3102 Justin).
 - **West Ridge branch cash withdrawals** are partners' draws: $500 9/26 = Justin (card 5898), $500 10/7 = Rob; $450 10/8 held.
 - **Machine/equipment running costs** (propane from Rent-A-Wreck, U-Haul, Tractor Supply; small machine parts) stay in Joe's Mach/Eqip category: use an *expense* account for it (e.g. "Machine & equipment expense"), never the Machinery and Equipment fixed-asset account, which is for buying machines.
@@ -82,3 +82,5 @@ SKM also said (9/17): money a partner puts in for cash flow should be **a loan o
 - 2025 money in +$596,019; out −$610,639.
 - 2025 tab → 2026 tab: CreditsPayments→Credits; GasFuel + Fleet Expenses→Vehicles; LiquidsSundries→Shop Supp (check: may be materials); EquipmentToolingMaterials→Raw Mat (split tooling/equipment out); Food→Meals; Employee Checks→Payroll; Owner Checks→Draws; SubscriptionsOffice→Soft; Advertising→Adv; Insurance→Insur; TaxesFees→Taxes/Fees; Utilities→Facilit (its $1,750 checks look like rent → Rent); Rentals→Rent or equipment rental; ATM/Check Withdrawls→by note.
 - 2025 problems: Fleet rows (−$10,341) also sit in GasFuel, so the dashboard counts fleet spend up to three times (real vehicle spend $36,544); Transfers tab mostly moves to the payroll share; Credits include transfers in, a $15,080 "Paychecks/Salary" item, refunds; Owner Checks include ~$35.8k of transfers to two named people who may be employees, not owners; loan repayment not separated; personal items (groceries in Food; Silverado/Lincoln $3,893); Monthly Summary Rentals and TOTAL rows are wrong.
+
+- 2026-10-17: Checking 1010 down to 8 held rows; savings 1020 to 5 (payroll, waiting on registers). "Machine & Equipment Expense" account created; all propane (Rent-A-Wreck, U-Haul, Tractor Supply), past and future, goes there.
