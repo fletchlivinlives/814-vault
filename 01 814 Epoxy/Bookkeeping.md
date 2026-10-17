@@ -49,6 +49,8 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 
 ## Rulings from Joe (2026-10-17)
 
+- **One merchant, one category, one payee name, in 2025 and 2026 alike** (Joe: "imperative"). Same merchant must land in the same category both years so the years compare and bank rules work. Merchants that really vary (Amazon, Lowe's, Home Depot, Walmart, gas stations, PayPal, cash, checks) go by receipt or Joe's note and are the only exception.
+
 - **Personal vehicles:** Silverado = Justin's (3102 Partner Distributions – Justin); Lincoln = Joe's (3101). Post as draws, mark SKM review.
 - **Partner distribution accounts:** 3101 Joe, 3102 Justin, 3103 Rob. "Withdrawal Transfer J" / "TRANSFER TO J FLETCHER" = Joe's draw unless noted.
 - **Chad Henry is paid by paper check** (no direct deposit). His net check is written from checking and the same amount is moved back in from the payroll share account, so the pair is a paycheck plus a transfer, not income.
