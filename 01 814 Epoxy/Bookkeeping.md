@@ -56,7 +56,13 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 - **Customer deposits before 9/30/2026** (no QuickBooks invoices then): income with the customer's name, no invoice.
 - Gas-station rows on the Meals tab → Meals; Lowe's on Raw Mat → Cost of goods sold:Material; consumables → Supplies; Clover/FDMS/Bankcd → Merchant account fees.
 - **Bank account …0010 "Check Float"** receives "To Share 0010" and "Billscheckssept" transfers from checking.
-- Open with Joe: Check 1785 $1,500; "Share" +$3,667.04; $33.60 extra on the Certified Home Remodelers (Jessup) check.
+- **Check Float (…0010)**: a real bank account; QuickBooks account "Check Float (0010)" created for it. "To Share 0010", "Billscheckssept" and "Share Bills Out" are transfers into it.
+- **Propane for floor machines** (U-Haul, Rent-A-Wreck; Joe's Mach/Eqip tab) is an operating expense (Supplies), not the Machinery and Equipment fixed-asset account. Only real equipment purchases go to the asset account (SKM decides the threshold).
+- **Cell phones** → Utilities:Phone service (Joe's Facilit tab).
+- **Floori.io** = the floor visualizer website → Software & apps.
+- **Car washes on Joe's personal vehicle** → 3101 draw.
+- **Loan from Joe**: Joe has lent the company close to $60,000 over the years. The partners agreed that check 1800 ($2,000, written to Herbe for Joe's personal taxes) is interest on that loan. Booked as Joe's draw with "SKM review" for now: deducting it as interest expense needs a documented loan (balance, rate) and makes it interest income to Joe. **Ask SKM** to set up the loan account and decide.
+- Open with Joe: Check 1785 $1,500; the "Share" transfers (+$3,667.04, +$3,188.98, −$2,000, +$2,000); $33.60 extra on the Certified Home Remodelers (Jessup) check; whose card ends 5898 (Widget Financial $500, $100).
 
 ## 2025 (sorted outside QuickBooks)
 
