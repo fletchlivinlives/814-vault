@@ -57,3 +57,12 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 - Gas-station rows on the Meals tab → Meals; Lowe's on Raw Mat → Cost of goods sold:Material; consumables → Supplies; Clover/FDMS/Bankcd → Merchant account fees.
 - **Bank account …0010 "Check Float"** receives "To Share 0010" and "Billscheckssept" transfers from checking.
 - Open with Joe: Check 1785 $1,500; "Share" +$3,667.04; $33.60 extra on the Certified Home Remodelers (Jessup) check.
+
+## 2025 (sorted outside QuickBooks)
+
+Decided 2026-10-17: finish and reconcile 2026 in QuickBooks, then set a closing date. **Don't edit 2025 in QuickBooks** (SKM filed from it). Bring 2025 onto the same categories in a sheet, for three comparable years; SKM decides if anything filed was wrong.
+
+- Joe's 2025 sheets (Drive): **"2025 814 EPOXY ExportedTransactions ALL OF"** (sorted into tabs, with a dashboard) and **"2025 ExportedTransactions 2025"** (the raw export, 2,476 rows, one account, full year). Same data; 99.8% sorted (only check #1588, $8,295.78 on 6/2/2025, and three ~$1 charges unsorted).
+- 2025 money in +$596,019; out −$610,639.
+- 2025 tab → 2026 tab: CreditsPayments→Credits; GasFuel + Fleet Expenses→Vehicles; LiquidsSundries→Shop Supp (check: may be materials); EquipmentToolingMaterials→Raw Mat (split tooling/equipment out); Food→Meals; Employee Checks→Payroll; Owner Checks→Draws; SubscriptionsOffice→Soft; Advertising→Adv; Insurance→Insur; TaxesFees→Taxes/Fees; Utilities→Facilit (its $1,750 checks look like rent → Rent); Rentals→Rent or equipment rental; ATM/Check Withdrawls→by note.
+- 2025 problems: Fleet rows (−$10,341) also sit in GasFuel, so the dashboard counts fleet spend up to three times (real vehicle spend $36,544); Transfers tab mostly moves to the payroll share; Credits include transfers in, a $15,080 "Paychecks/Salary" item, refunds; Owner Checks include ~$35.8k of transfers to two named people who may be employees, not owners; loan repayment not separated; personal items (groceries in Food; Silverado/Lincoln $3,893); Monthly Summary Rentals and TOTAL rows are wrong.
