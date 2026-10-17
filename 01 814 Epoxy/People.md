@@ -22,6 +22,6 @@ Joe hands out nicknames and they stick, so "Fletch" can mean Joe, Justin, or Joe
 
 ## Outside
 
-- **ECAA** (Peninsula Drive, Erie) – payroll.
-- **SKM** – tax preparation, business and personal.
-- **Liz (Van Cleve)** – former bookkeeper; her books were a mess (no bank reconciliation for about a year). Bookkeeping is now Joe working with Claude; SKM is fine with that. Rob still sends the Monday ClockShark hours to Liz. _To confirm: is Liz still the payroll hand-off, or ECAA?_
+- **ECAA** (Peninsula Drive, Erie; contact Bob McCarthy, Account Executive) – takes over payroll with the **10/23/2026 payroll, weekly** from then on.
+- **SKM** – tax preparation, business and personal. David Herbe Jr., CPA (principal); Derek Loringer, CPA (tax associate).
+- **Liz (Van Cleve)** – former bookkeeper; her books were a mess (no bank reconciliation for about a year). Bookkeeping is now Joe working with Claude; SKM is fine with that. Van Cleve, Inc. ran payroll (biweekly, debited from the payroll savings account) until ECAA takes over on 10/23/2026. Her quarterly earnings registers for 2026 (Q1–Q3) are in Joe's email (Oct 6–8, "payroll conversion items").

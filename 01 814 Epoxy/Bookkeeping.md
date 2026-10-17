@@ -62,11 +62,21 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 - **Floori.io** = the floor visualizer website → Software & apps.
 - **Car washes on Joe's personal vehicle** → 3101 draw.
 - **Loan from Joe**: Joe has lent the company close to $60,000 over the years. The partners agreed that check 1800 ($2,000, written to Herbe for Joe's personal taxes) is interest on that loan. Booked as Joe's draw with "SKM review" for now: deducting it as interest expense needs a documented loan (balance, rate) and makes it interest income to Joe. **Ask SKM** to set up the loan account and decide.
-- Open with Joe: Check 1785 $1,500; the "Share" transfers (+$3,667.04, +$3,188.98, −$2,000, +$2,000); $33.60 extra on the Certified Home Remodelers (Jessup) check; whose card ends 5898 (Widget Financial $500, $100).
+- **Widget Financial** is the business bank and also Joe's personal bank; only Joe has a personal Widget account. Any "Fletcher" or "J" withdrawal transfer = Joe's draw (3101).
+- **Card ending 5898 = Justin's** (Widget Financial $500 on 9/26 and $100 on 9/27 → 3102 Justin).
+- **West Ridge branch cash withdrawals** are partners' draws: $500 9/26 = Justin (card 5898), $500 10/7 = Rob; $450 10/8 held.
+- **Machine/equipment running costs** (propane from Rent-A-Wreck, U-Haul, Tractor Supply; small machine parts) stay in Joe's Mach/Eqip category: use an *expense* account for it (e.g. "Machine & equipment expense"), never the Machinery and Equipment fixed-asset account, which is for buying machines.
+- **Country Fair under ~$25–30 = food** (Meals). Rob sometimes buys a $25 gas card there; $25 even = gas.
+- **Niagara Machine** can be tools (grinders, tooling) or materials; go by Joe's note. $474.88 on 10/9 = tool (grinder and tooling).
+- **Target $146.67 (10/8)** = Keurig coffee maker, creamer and coffee for the shop → Supplies.
+- Chick-fil-A and vending (AVI Food) → Meals.
+- Chad's paper paychecks pair with a "Share Chads" transfer from the payroll share account (checks 1218, 1221, 222, 229).
+- Open with Joe: Check 1785 $1,500; the "Share" transfers (+$3,667.04, +$3,188.98, −$2,000, +$2,000, +$4,367.89); $33.60 extra on the Certified Home Remodelers (Jessup) check; West Ridge $450 (10/8); "Tools" $224.97 (10/15).
 
-## 2025 (sorted outside QuickBooks)
+## 2025
 
-Decided 2026-10-17: finish and reconcile 2026 in QuickBooks, then set a closing date. **Don't edit 2025 in QuickBooks** (SKM filed from it). Bring 2025 onto the same categories in a sheet, for three comparable years; SKM decides if anything filed was wrong.
+**Correction (from Joe's email, 2026-09-15):** SKM (David Herbe) filed 2025 "with this information and **will amend once the books are good to go**." So clean 2025 books matter for taxes, not just comparison. Before touching 2025 in QuickBooks, ask SKM how they want it: corrected 2025 in QuickBooks (they asked Liz for the 2025 cash-basis general ledger on 9/18) or a list of adjustments. Do 2026 first either way.
+SKM also said (9/17): money a partner puts in for cash flow should be **a loan on the balance sheet**.
 
 - Joe's 2025 sheets (Drive): **"2025 814 EPOXY ExportedTransactions ALL OF"** (sorted into tabs, with a dashboard) and **"2025 ExportedTransactions 2025"** (the raw export, 2,476 rows, one account, full year). Same data; 99.8% sorted (only check #1588, $8,295.78 on 6/2/2025, and three ~$1 charges unsorted).
 - 2025 money in +$596,019; out −$610,639.
