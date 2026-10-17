@@ -21,6 +21,7 @@
 ## Systems
 
 - [[Systems]] – 814 SALES DOC, QuickBooks, the QB status sync, outside services and apps.
+- [[Bookkeeping]] – how the books are kept, the category map from Joe's 2026 sheet, and known problems.
 
 ## How a job flows
 
