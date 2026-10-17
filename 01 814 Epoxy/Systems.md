@@ -34,6 +34,11 @@ _To fill in: how estimating, contracts and scheduling work day to day in these t
 - If QuickBooks disconnects (`invalid_grant`), re-run its `authorize` steps from that repo's README.
 - Updating it is manual, in the **814 QB Status Sync** project at script.google.com (not the AutoTrackerRow project bound to the sheet). The live project also has AutoInvoice.gs and Reconcile.gs that the repo doesn't, so make targeted edits rather than replacing whole files. Failures email Joe ("Summary of failures for Google Apps Script: 814 QB Status Sync").
 
+## Simiron data sheets and the crew's Claude
+
+- **814 SIMIRON PDS** (standalone Apps Script; code on 814-qb-status branch `claude/loving-gates-aanzfn`, `simiron/`): mirrors Simiron's product data sheets into Drive **814 COMMONS / 814 PRODUCT DATA / SIMIRON** and checks simiron.com every Monday ~6am for revisions (CHANGES, PDF_LIBRARY, RUN_LOG tabs in 814_PRODUCT_DATA_CARDS). First run 2026-10-17: 41 sheets mirrored. Simiron's downloads page has no SDS; get them from Simiron or Chase.
+- **Justin and Rob** each have a paid Claude account connected to Google Drive and a shared Claude project with the Craft Library and Estimating Library. Plan: share 814 PRODUCT DATA (view only) and add the Simiron instructions block to their project (answer from the current PDS, name the sheet and footer date, quote critical numbers, never guess).
+
 ## Other tools and services
 
 - **Engage** – website.
