@@ -19,7 +19,7 @@ Joe hands out nicknames and they stick, so "Fletch" can mean Joe, Justin, or Joe
   - **Cortly (Courtly) Muller** – 28; was Joe's brother's best friend.
   - **Jayden (Jaden) Snider** – 19; Courtly's brother.
   - **Elijah Johnson** – 19; Justin's nephew (his half-sister's son).
-  - Also on 2026 payroll: John Cerula, Mathew Kinnison, Garrett Fletcher, Shawn, Austin. _Who they are: ask Joe._ Garrett Fletcher is an employee, not a partner; Justin and Rob are not on payroll.
+  - Also on 2026 payroll: John Cerula, Mathew Kinnison, Shawn, Austin (_who they are: ask Joe_). **Garrett Fletcher** is Joe's brother and Justin's cousin; worked for 814 until end of December 2025, last check 1/2/2026. Justin and Rob are not on payroll.
 
 ## Outside
 
