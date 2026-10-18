@@ -14,11 +14,12 @@ Joe hands out nicknames and they stick, so "Fletch" can mean Joe, Justin, or Joe
 
 - **Rob Kennison** – nicknames "Gingerbeard" and "Bobcat" (Joe gave both). Co-runs the crews. The one office task outside Joe: about an hour each Monday checking the crew's ClockShark hours (missed clock-ins and clock-outs) and passing them on for payroll. Joe's best friend; in business together since 2014. Background in masonry, some drywall, plumbing and electrical. Gets the job done. Spent a couple of years in the office but isn't a computer person; keep him in the field.
 - **Justin Fletcher** – Joe calls him "Fletch". Co-runs the crews. Joe's first cousin; joined 2020. 20 years as a roofer, builder and framer. Very detailed.
-- **Crew (4):**
-  - **Chad "Frank" Henry** – everyone has called him Frank or Frankie for about 20 years. Joe's childhood friend; known him about 40 years.
-  - **Courtly** – 28; was Joe's brother's best friend.
-  - **Jaden** – 19; Courtly's brother.
-  - **Elijah** – 19; Justin's nephew (his half-sister's son).
+- **Crew** (on payroll in 2026, from Van Cleve's 10/6 list; hire dates there):
+  - **Chad "Frank" Henry** – everyone has called him Frank or Frankie for about 20 years. Joe's childhood friend; known him about 40 years. On payroll from 8/1/2026.
+  - **Cortly (Courtly) Muller** – 28; was Joe's brother's best friend.
+  - **Jayden (Jaden) Snider** – 19; Courtly's brother.
+  - **Elijah Johnson** – 19; Justin's nephew (his half-sister's son).
+  - Also on 2026 payroll: John Cerula, Mathew Kinnison, Garrett Fletcher, Shawn, Austin. _Who they are: ask Joe._ Garrett Fletcher is an employee, not a partner; Justin and Rob are not on payroll.
 
 ## Outside
 

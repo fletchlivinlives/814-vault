@@ -74,6 +74,14 @@ _Exact QuickBooks account names to be checked against the chart of accounts befo
 - Chad's paper paychecks pair with a "Share Chads" transfer from the payroll share account (checks 1218, 1221, 222, 229).
 - Open with Joe: Check 1785 $1,500; the "Share" transfers (+$3,667.04, +$3,188.98, −$2,000, +$2,000, +$4,367.89); $33.60 extra on the Certified Home Remodelers (Jessup) check; West Ridge $450 (10/8); "Tools" $224.97 (10/15).
 
+## Payroll 2026 (Van Cleve, through 10/9)
+
+- Sheet **"2026 Payroll Register (Van Cleve)"** (Drive, 814 COMMONS / Payroll / Van Cleve), built 10/17 from Liz's emails. Q1 by pay date; Q2 and Q3 quarter totals only; 10/9 run totals. Gross: Q1 20,871.93, Q2 19,228.52, Q3 31,038.79, 10/9 4,942.50. Original PDFs are still only in Outlook.
+- Books use the cash method Liz used: Van Cleve net-pay debits → Payroll Expenses:Wages; IRS, PA Revenue, PA UC and Berkheimer payments → Wages Tax Expense; Van Cleve fees → Accounting fees. SKM trues wages up to the W-2s at year end. From 10/23, ECAA's per-run reports allow a proper entry per payroll.
+- Joe asked Van Cleve (9/25) to file the **Q3 2026** returns (due 10/31); confirm she did. The 10/9 run is Q4: ECAA needs it for Q4 filings and W-2s.
+- **PA UC payment plan** (UC-10A, letter 7/16/2026): 12 monthly installments of $226.05, next due 10/22. PA applied the Q2 2026 UC payment ($249.80) to 1Q 2025, so Q2 2026 shows unpaid. Check that the installments are being paid.
+- Aflac: Van Cleve withheld it but did not pay Aflac; 814 pays Aflac's bills directly (Aflac expense in QuickBooks).
+
 ## 2025
 
 **Correction (from Joe's email, 2026-09-15):** SKM (David Herbe) filed 2025 "with this information and **will amend once the books are good to go**." So clean 2025 books matter for taxes, not just comparison. Before touching 2025 in QuickBooks, ask SKM how they want it: corrected 2025 in QuickBooks (they asked Liz for the 2025 cash-basis general ledger on 9/18) or a list of adjustments. Do 2026 first either way.
